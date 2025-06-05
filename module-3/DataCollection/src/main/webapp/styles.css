@@ -1,0 +1,30 @@
+/* Steve Stylin, Module 3: styles file 
+
+@charset "UTF-8"; /* Specifies the character encoding for the CSS file*/
+body {
+    font-family: Serif, Garamond; /* Sets the font family for the body text*/
+    margin: 20px; /* Adds a margin around the body */
+    background-color: #eeeeee; /* Sets the background color of the body */
+}
+
+h1 {
+    color: #950000; /* Defines the text color for h1 headers */
+}
+
+form {
+    margin-bottom: 20px; /* Adds space below the form*/
+}
+
+table {
+    width: 100%; /* Sets the table width to occupy the full width of its container */
+    border-collapse: collapse; /* Collapses table borders into a single border */
+}
+
+th, td {
+    padding: 10px; /* Adds padding inside table header and data cells*/
+    text-align: left; /* Aligns text to the left in table cells */
+}
+
+th {
+    background-color: #0ea08e; /* Sets the background color for table headers*/
+}
