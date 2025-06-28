@@ -17,7 +17,7 @@
     <ul>
         <!-- Replace the items below with the actual paths to your Word documents -->
         <li><a href="documents/Stylin__movies_data.docx">Module 5.1 Documentation</a></li> <!-- Link to Module 5.1 documentation -->
-         <li><a href="documents/Stylin_module6_database_connection">Module 6.1 Documentation</a></li> <!-- Link to Module 5.1 documentation -->
+         <li><a href="documents/Stylin_module6_database_connection.docx">Module 6.1 Documentation</a></li> <!-- Link to Module 5.1 documentation -->
     </ul>
 
     <h2>Select a Movie</h2>
